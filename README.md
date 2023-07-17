@@ -1,10 +1,15 @@
-<details>
-<summary>Click to expand dropdown</summary>
+<!-- Side Menu -->
+- [Home](#home)
+- [About](#about)
+- [Contact](#contact)
 
-Dropdown content goes here.
+<!-- Content -->
+# Home
+This is the home section.
 
-- Item 1
-- Item 2
-- Item 3
+# About
+This is the about section.
 
-</details>
+# Contact
+This is the contact section.
+
