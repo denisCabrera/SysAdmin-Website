@@ -1,5 +1,11 @@
 # Menu
 
+<ul class="menu">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">About</a></li>
+  <li><a href="#">Contact</a></li>
+</ul>
+
 * [Home](index.md)
 * [All resources](docs/resources)
 * [Cyber](docs/resources/cyber.md)
