@@ -1,7 +1,7 @@
 # Menu
 
 * [Home](index.md)
-* [Cyber](docs/cyber.md)
-* [Windows](docts/windows.md)
+* [Cyber](docs/resources/cyber.md)
+* [Windows](docts/resources/windows.md)
 * [About](about.md)
 * [Contact](contact.md)
