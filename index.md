@@ -1,9 +1,4 @@
--  [Home](index.md)
-- [All resources](docs/resources)
-- [Cyber](docs/resources/cyber.md)
-- [Windows](docs/resources/windows.md)
-- [About](about.md)
-- [Contact](contact.md)
+[Home](index.md) | [All resources](docs/resources) |  [Cyber](docs/resources/cyber.md) | [Windows](docs/resources/windows.md) 
 
 
 
